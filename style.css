@@ -1,0 +1,26 @@
+nav{
+    position: sticky;
+    top:0;
+    padding:20px;
+    background: lightblue;
+    text-align: center;
+}
+
+
+footer{
+    position: sticky;
+    bottom:0;
+    padding:20px;
+    background: lightblue;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    padding: 5;
+}
+
+.row{
+  padding-bottom: 50px;  
+}
